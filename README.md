@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning uncertainty estimation using energy based model formalism
 - 👯 I’m looking to collaborate on anything bringing our world to a more sustainable and fair place for everyone
 - ⚡ Fun fact: I'm not a very funny guy
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
