@@ -15,9 +15,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [COVID-19 in Denmark - An epidemic in a small country](https://doktormike.gitlab.io/post/covid-19/)
 - [A quick introduction to derivatives for machine learning people](/math/derivatives/machine/learning/ai/ml/2018/02/09/A-quick-introduction-to-derivatives-for-machine-learning-people.html)
+- [A quick introduction to derivatives for machine learning people](https://doktormike.gitlab.io/post/derivative-18/)
 - [The importance of context](/2018/02/01/The-importance-of-context.html)
-- [Deep Neural Networks in Julia - Love at first sight?](/2018/01/10/Deep-learning-in-julia.html)
-- [On the apparent success of the maximum likelihood principle](/2017/07/28/On-the-apparent-success-of-the-maximum-likelihood-principle.html)
-- [Building and testing a simple deep learning object detection application](/2017/07/15/A-simple-object-detection-app.html)
+- [The importance of context](https://doktormike.gitlab.io/post/2018-2-1-the-importance-of-context/)
 <!-- BLOG-POST-LIST:END -->
