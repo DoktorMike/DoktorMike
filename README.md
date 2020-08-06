@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I'm not a very funny guy
 
 # My latest Videos
-<!-- YOUTUBE-LIST:START -->
-<!-- YOUTUBE-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
