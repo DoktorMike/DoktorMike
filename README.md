@@ -15,9 +15,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What does the prior actually do in a Bayesian analysis?](https://doktormike.gitlab.io/post/whatpriorsdo/)
 - [COVID-19 in Denmark - An epidemic in a small country](https://doktormike.gitlab.io/post/covid-19/)
 - [A quick introduction to derivatives for machine learning people](https://doktormike.gitlab.io/post/derivative-18/)
 - [The importance of context](https://doktormike.gitlab.io/post/2018-2-1-the-importance-of-context/)
 - [Deep Neural Networks in Julia - Love at first sight?](https://doktormike.gitlab.io/post/2018-1-10-deep-learning-in-julia/)
-- [On the apparent success of the maximum likelihood principle](https://doktormike.gitlab.io/post/2017-7-28-on-the-apparent-success-of-the-maximum-likelihood-principle/)
 <!-- BLOG-POST-LIST:END -->
