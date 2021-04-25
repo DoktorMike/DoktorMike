@@ -7,6 +7,7 @@
 
 # My latest Videos
 <!-- YOUTUBE:START -->
+- [Desupervised Company Intro](https://www.youtube.com/watch?v=ua79xDRBquA)
 - [An short introduction to Artificial Intelligence and it's applications in Media](https://www.youtube.com/watch?v=9YZ5c3dOmgQ)
 - [Bayesian Artificial Intelligence - GotoCph 2017](https://www.youtube.com/watch?v=_GazRDpv0uI)
 - [An short introduction to Artificial Intelligence and it's applications in Media](https://www.youtube.com/watch?v=C1ZonnlRkAY)
