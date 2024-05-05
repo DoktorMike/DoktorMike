@@ -7,11 +7,11 @@
 
 # My latest Videos
 <!-- YOUTUBE:START -->
+- [Desupervised - Get Inspired - Commercial Navigator Insurance](https://www.youtube.com/watch?v=sukt9myq_mI)
+- [Desupervised - Get Inspired - Commercial Navigator](https://www.youtube.com/watch?v=K7WC6Ad_U0E)
+- [Dsupervised - Get Inspired - What is Bayesian AI?](https://www.youtube.com/watch?v=IGoRJJ7ZoVs)
+- [Desupervised - Get Inspired - AI Levels](https://www.youtube.com/watch?v=-RdEFC5G1pE)
 - [Desupervised Company Intro](https://www.youtube.com/watch?v=ua79xDRBquA)
-- [An short introduction to Artificial Intelligence and it&#39;s applications in Media](https://www.youtube.com/watch?v=9YZ5c3dOmgQ)
-- [Bayesian Artificial Intelligence - GotoCph 2017](https://www.youtube.com/watch?v=_GazRDpv0uI)
-- [An short introduction to Artificial Intelligence and it&#39;s applications in Media](https://www.youtube.com/watch?v=C1ZonnlRkAY)
-- [Michaels PhD Defense](https://www.youtube.com/watch?v=EUTZKMPFn9I)
 <!-- YOUTUBE:END -->
 
 # My latest Blog posts
