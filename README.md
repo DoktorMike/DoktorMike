@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What does the prior actually do in a Bayesian analysis?](https://doktormike.gitlab.io/post/whatpriorsdo/)
-- [COVID-19 in Denmark - An epidemic in a small country](https://doktormike.gitlab.io/post/covid-19/)
-- [A quick introduction to derivatives for machine learning people](https://doktormike.gitlab.io/post/derivative-18/)
-- [The importance of context](https://doktormike.gitlab.io/post/2018-2-1-the-importance-of-context/)
-- [Deep Neural Networks in Julia - Love at first sight?](https://doktormike.gitlab.io/post/2018-1-10-deep-learning-in-julia/)
+- [LogP, LogD, pKa and LogS: A Physicists guide to basic chemical properties](https://doktormike.gitlab.io/posts/navigating-logp-logd-pka-and-logs-a-physicists-guide/)
+- [What does the prior actually do in a Bayesian analysis?](https://doktormike.gitlab.io/posts/what-does-the-prior-do/)
+- [COVID-19 in Denmark - An epidemic in a small country](https://doktormike.gitlab.io/posts/covid-19-in-denmark/)
+- [A quick introduction to derivatives for machine learning people](https://doktormike.gitlab.io/posts/a-quick-intro-to-derivatives/)
+- [The importance of context](https://doktormike.gitlab.io/posts/the-importance-of-context/)
 <!-- BLOG-POST-LIST:END -->
