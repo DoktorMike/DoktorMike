@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evidential musings](https://doktormike.gitlab.io/posts/evidential_musings_with_multinomial/)
 - [ξ correlation: A new tool for your causality checks](https://doktormike.gitlab.io/posts/xicor-a-new-tool-for-your-causality-checks/)
 - [LogP, LogD, pKa and LogS: A Physicists guide to basic chemical properties](https://doktormike.gitlab.io/posts/navigating-logp-logd-pka-and-logs-a-physicists-guide/)
 - [What does the prior actually do in a Bayesian analysis?](https://doktormike.gitlab.io/posts/what-does-the-prior-do/)
 - [COVID-19 in Denmark - An epidemic in a small country](https://doktormike.gitlab.io/posts/covid-19-in-denmark/)
-- [A quick introduction to derivatives for machine learning people](https://doktormike.gitlab.io/posts/a-quick-intro-to-derivatives/)
 <!-- BLOG-POST-LIST:END -->
