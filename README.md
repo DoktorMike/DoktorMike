@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The cacophony around us](https://doktormike.gitlab.io/posts/the-cacaophony-around-us/)
 - [Learning a new skill: A thing of the past?](https://doktormike.gitlab.io/posts/learning-the-skill/)
 - [Evidential musings](https://doktormike.gitlab.io/posts/evidential_musings_with_multinomial/)
 - [ξ correlation: A new tool for your causality checks](https://doktormike.gitlab.io/posts/xicor-a-new-tool-for-your-causality-checks/)
 - [LogP, LogD, pKa and LogS: A Physicists guide to basic chemical properties](https://doktormike.gitlab.io/posts/navigating-logp-logd-pka-and-logs-a-physicists-guide/)
-- [What does the prior actually do in a Bayesian analysis?](https://doktormike.gitlab.io/posts/what-does-the-prior-do/)
 <!-- BLOG-POST-LIST:END -->
