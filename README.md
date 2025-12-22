@@ -7,11 +7,11 @@
 
 # My latest Videos
 <!-- YOUTUBE:START -->
+- [TV Avisen den 27  november 2025 Michael Green](https://www.youtube.com/watch?v=BY_rmExF3f0)
 - [Desupervised - Get Inspired - Commercial Navigator Insurance](https://www.youtube.com/watch?v=sukt9myq_mI)
 - [Desupervised - Get Inspired - Commercial Navigator](https://www.youtube.com/watch?v=K7WC6Ad_U0E)
 - [Dsupervised - Get Inspired - What is Bayesian AI?](https://www.youtube.com/watch?v=IGoRJJ7ZoVs)
 - [Desupervised - Get Inspired - AI Levels](https://www.youtube.com/watch?v=-RdEFC5G1pE)
-- [Desupervised Company Intro](https://www.youtube.com/watch?v=ua79xDRBquA)
 <!-- YOUTUBE:END -->
 
 # My latest Blog posts
