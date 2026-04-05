@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Law That Should Disturb Every One of Us](https://doktormike.gitlab.io/posts/death-penalty-law-speak-up/)
 - [How I got rid of American Technology and why you should too](https://doktormike.gitlab.io/posts/european-alternatives/)
 - [The cacophony around us](https://doktormike.gitlab.io/posts/the-cacaophony-around-us/)
 - [Learning a new skill: A thing of the past?](https://doktormike.gitlab.io/posts/learning-the-skill/)
 - [Evidential musings](https://doktormike.gitlab.io/posts/evidential_musings_with_multinomial/)
-- [ξ correlation: A new tool for your causality checks](https://doktormike.gitlab.io/posts/xicor-a-new-tool-for-your-causality-checks/)
 <!-- BLOG-POST-LIST:END -->
