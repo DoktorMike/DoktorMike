@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Law That Should Disturb Every One of Us](https://doktormike.gitlab.io/posts/death-penalty-law-speak-up/)
-- [How I got rid of American Technology and why you should too](https://doktormike.gitlab.io/posts/european-alternatives/)
-- [The cacophony around us](https://doktormike.gitlab.io/posts/the-cacaophony-around-us/)
-- [Learning a new skill: A thing of the past?](https://doktormike.gitlab.io/posts/learning-the-skill/)
-- [Evidential musings](https://doktormike.gitlab.io/posts/evidential_musings_with_multinomial/)
+- [The Gradient, Jacobian, Hessian, and Laplacian](https://drmike.xyz/posts/gradient-jacobian-hessian-laplacian/)
+- [A Law That Should Disturb Every One of Us](https://drmike.xyz/posts/death-penalty-law-speak-up/)
+- [Of monsters and large language models](https://drmike.xyz/posts/of-monsters-and-language-models/)
+- [How I got rid of American Technology and why you should too](https://drmike.xyz/posts/european-alternatives/)
+- [Equivariance, Invariance and the magic of data transformations as inductive biases](https://drmike.xyz/posts/equivariance-invariance-data-transformation/)
 <!-- BLOG-POST-LIST:END -->
