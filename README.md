@@ -20,5 +20,5 @@
 - [A Law That Should Disturb Every One of Us](https://drmike.xyz/posts/death-penalty-law-speak-up/)
 - [Of monsters and large language models](https://drmike.xyz/posts/of-monsters-and-language-models/)
 - [How I got rid of American Technology and why you should too](https://drmike.xyz/posts/european-alternatives/)
-- [Equivariance, Invariance and the magic of data transformations as inductive biases](https://drmike.xyz/posts/equivariance-invariance-data-transformation/)
+- [The cacophony around us](https://drmike.xyz/posts/the-cacaophony-around-us/)
 <!-- BLOG-POST-LIST:END -->
