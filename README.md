@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Marketing Science: Why Most Brands Are Still Guessing](https://drmike.xyz/posts/marketing-science-what-actually-works/)
 - [The Gradient, Jacobian, Hessian, and Laplacian](https://drmike.xyz/posts/gradient-jacobian-hessian-laplacian/)
 - [A Law That Should Disturb Every One of Us](https://drmike.xyz/posts/death-penalty-law-speak-up/)
 - [Of monsters and large language models](https://drmike.xyz/posts/of-monsters-and-language-models/)
 - [How I got rid of American Technology and why you should too](https://drmike.xyz/posts/european-alternatives/)
-- [The cacophony around us](https://drmike.xyz/posts/the-cacaophony-around-us/)
 <!-- BLOG-POST-LIST:END -->
