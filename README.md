@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A small world model that knows when a cube is cheating](https://drmike.xyz/posts/smolwm-world-model/)
 - [World Models and Why JEPA + SIGReg Is a Good Bet for Teaching AI Agents](https://drmike.xyz/posts/why-world-models-with-jepa/)
 - [Building a JEPA world model from scratch in Julia](https://drmike.xyz/posts/building-a-jepa-world-model-from-scratch/)
 - [Marketing Science: Why Most Brands Are Still Guessing](https://drmike.xyz/posts/marketing-science-what-actually-works/)
 - [The Gradient, Jacobian, Hessian, and Laplacian](https://drmike.xyz/posts/gradient-jacobian-hessian-laplacian/)
-- [A Law That Should Disturb Every One of Us](https://drmike.xyz/posts/death-penalty-law-speak-up/)
 <!-- BLOG-POST-LIST:END -->
