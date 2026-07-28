@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Two Pillars, Revisited: The Moat Rotted Faster, The Choice Didn’t](https://drmike.xyz/posts/the-two-pillars-revisited/)
 - [Latent Stochastic Differential Equations for Time Series](https://drmike.xyz/posts/latent-stochastic-differential-equations-time-series/)
 - [Rediscovering the transformer, from attention up](https://drmike.xyz/posts/rediscovering-the-transformer-from-attention-up/)
 - [The Two Pillars Are Both Rotting](https://drmike.xyz/posts/the-two-pillars-are-both-rotting/)
 - [A small world model that knows when a cube is cheating](https://drmike.xyz/posts/smolwm-world-model/)
-- [World Models and Why JEPA + SIGReg Is a Good Bet for Teaching AI Agents](https://drmike.xyz/posts/why-world-models-with-jepa/)
 <!-- BLOG-POST-LIST:END -->
