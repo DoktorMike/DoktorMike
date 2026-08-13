@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qwen3.8 Open-Weighed the Frontier, and the Grace-Period it Awards us](https://drmike.xyz/posts/qwen3-8-open-weights-frontier/)
 - [Europe’s Frontier AI Scoreboard](https://drmike.xyz/posts/europe-frontier-ai-scoreboard/)
 - [The Two Pillars, Revisited: The Moat Rotted Faster, The Choice Didn’t](https://drmike.xyz/posts/the-two-pillars-revisited/)
 - [Latent Stochastic Differential Equations for Time Series](https://drmike.xyz/posts/latent-stochastic-differential-equations-time-series/)
 - [Rediscovering the transformer, from attention up](https://drmike.xyz/posts/rediscovering-the-transformer-from-attention-up/)
-- [The Two Pillars Are Both Rotting](https://drmike.xyz/posts/the-two-pillars-are-both-rotting/)
 <!-- BLOG-POST-LIST:END -->
