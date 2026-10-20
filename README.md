@@ -16,9 +16,9 @@
 
 # My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Give the confounder its own equation](https://drmike.xyz/posts/give-the-confounder-its-own-equation/)
 - [Who’s paying for all of this?](https://drmike.xyz/posts/whos-paying-for-all-of-this/)
 - [We cannot be that stupid](https://drmike.xyz/posts/we-cant-be-that-stupid/)
 - [Qwen3.8 Open-Weighed the Frontier, and the Grace-Period it Awards us](https://drmike.xyz/posts/qwen3-8-open-weights-frontier/)
 - [Europe’s Frontier AI Scoreboard](https://drmike.xyz/posts/europe-frontier-ai-scoreboard/)
-- [The Two Pillars, Revisited: The Moat Rotted Faster, The Choice Didn’t](https://drmike.xyz/posts/the-two-pillars-revisited/)
 <!-- BLOG-POST-LIST:END -->
